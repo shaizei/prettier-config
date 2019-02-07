@@ -25,7 +25,8 @@
     "prettier",
     "shaizei",
     "javascript",
-    "formatting"
+    "formatting",
+    "react"
   ],
   "homepage": "https://github.com/shaizei/prettier-config#readme",
   "dependencies": {
