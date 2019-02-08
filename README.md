@@ -1,6 +1,6 @@
 # @shaizei/prettier-config
 
-This package includes the shareable Prettier configuration used by the applications created with @shaizei/cli.
+This package contains shareable Prettier configuration used by the applications created with @shaizei/cli.
 
 ## Installation
 
